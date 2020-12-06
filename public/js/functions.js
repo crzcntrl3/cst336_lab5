@@ -1,6 +1,5 @@
 /* global $ */
-/* global fetch */
-/* global URLSearchParams */
+
 $(document).ready(function(){
     /*Event when clicking on any favorite icon
     icon swaps from empty to filled*/
